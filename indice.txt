@@ -1,4 +1,7 @@
-Capitulo 1:Introduccion a Git. Cambio realizado por autor B
+
+Capitulo 1:Introduccion a Git. - Cambio de autor A
 Capitulo 2: Flujo de trabajo básico
 Capitulo 3: Gestión de rama
 Capitulo 4: Repositorios remotos
+
+Modificación realizada por el colaborador A.
