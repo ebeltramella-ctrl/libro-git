@@ -2,3 +2,5 @@ Capitulo 1:Introduccion a Git.
 Capitulo 2: Flujo de trabajo básico
 Capitulo 3: Gestión de rama
 Capitulo 4: Repositorios remotos
+
+Modificación realizada por el colaborador A.
